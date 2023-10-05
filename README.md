@@ -6,6 +6,7 @@ This is a feedback app.
 ## Technologies Used
 - **NextJs**
 - **React**
+- **TypeScript**
 - **Tailwind**
 
 ### Getting Started
